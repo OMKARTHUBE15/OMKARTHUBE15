@@ -23,9 +23,8 @@ achievements and passion for technology to contribute effectively to a collabora
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         </a>
         <a href="https://www.azure.com/" target="_blank">
-            <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white />
-        
-  </a>
+            <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
+        </a>
         <a href="https://www.python.org/" target="_blank">
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         </a> 
