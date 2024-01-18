@@ -11,7 +11,7 @@ achievements and passion for technology to contribute effectively to a collabora
 
 <table><tr><td valign="top" width="33%">
 
-#### AWS   
+#### CLOUD SKILLS   
   <div align="center">  
         <a href="https://www.aws.com/" target="_blank">
             <img src=https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white />
