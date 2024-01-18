@@ -131,7 +131,7 @@ achievements and passion for technology to contribute effectively to a collabora
   <a href="https://github.com/OMKARTHUBE15">
     <img src="https://github.com/OMKARTHUBE15" alt="Github">
   </a> 
-  <a href="https://twitter.com/OMKARTHUBE15">
+  <a href="https://twitter.com/uma_dev_">
     <img src="https://twitter.com/ON_Thube" alt="Twitter">
   </a> 
 </p>
