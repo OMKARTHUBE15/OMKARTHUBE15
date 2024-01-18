@@ -1,17 +1,19 @@
 # Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## About me
--  **Developer** and Telecomm Engineer.
--  I enjoy creating web applications, scripts, and 2D games.
--  I enjoy working with CNC/Laser cutting and 3D printing.
+A dedicated and detail-oriented graduate seeking a challenging role as an AWS Solution
+Architect with a focus on DevOps. Proficient in cloud computing concepts and solutions, with a
+solid foundation in AWS services. Eager to bring a fresh perspective and a proactive approach
+to problem-solving in a professional environment. Ready to leverage educational
+achievements and passion for technology to contribute effectively to a collaborative team.
 
 ### 🛠️ Skills
 
 <table><tr><td valign="top" width="33%">
 
-#### Back-End and +   
+#### AWS   
   <div align="center">  
-        <a href="https://www.java.com/" target="_blank">
+        <a href="https://www.aws.com/" target="_blank">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         </a>  
         <a href="https://spring.io/" target="_blank"> 
