@@ -15,9 +15,6 @@ achievements and passion for technology to contribute effectively to a collabora
   <div align="center">  
         <a href="https://www.aws.com/" target="_blank">
             <img src=https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white />
-        </a>  
-        <a href="https://spring.io/" target="_blank"> 
-          <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
         </a>
         <a href="https://www.mysql.com/" target="_blank">
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
