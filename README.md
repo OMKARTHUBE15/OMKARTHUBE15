@@ -128,11 +128,11 @@ achievements and passion for technology to contribute effectively to a collabora
   <a href="https://www.linkedin.com/in/omkarthube/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/OMKARTHUBE15">
+  <a href="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://github.com/OMKARTHUBE15" alt="Github">
   </a> 
   <a href="https://twitter.com/ON_Thube">
-    <img src="https://twitter.com/ON_Thube" alt="Twitter">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
   </a> 
 </p>
 
