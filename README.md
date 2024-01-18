@@ -125,13 +125,13 @@ achievements and passion for technology to contribute effectively to a collabora
   <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="150"/>
 </p>  
 <p align="center">
-  <a href="https://www.linkedin.com/in/OMKAR THUBE/">
+  <a href="https://www.linkedin.com/in/omkarthube/">
     <img src="https://www.linkedin.com/in/omkarthube/" alt="LinkedIn">
   </a>
   <a href="https://github.com/OMKARTHUBE15">
     <img src="https://github.com/OMKARTHUBE15" alt="Github">
   </a> 
-  <a href="https://twitter.com/uma_dev_">
+  <a href="https://twitter.com/ON_Thube">
     <img src="https://twitter.com/ON_Thube" alt="Twitter">
   </a> 
 </p>
