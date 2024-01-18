@@ -17,7 +17,7 @@ achievements and passion for technology to contribute effectively to a collabora
             <img src=https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white />
         </a>
      <a href="https://www.googlecloud.com/" target="_blank">
-            <img src=https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
+            <img src=https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white />
         </a>
         <a href="https://www.mysql.com/" target="_blank">
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
