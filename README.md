@@ -71,24 +71,22 @@ achievements and passion for technology to contribute effectively to a collabora
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </a>
-    <a href="https://cloud.google.com/" target="_blank">
-      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GoogleCloud" />
-    </a>
     <a href="https://www.docker.com/" target="_blank">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    </a>
-    <a href="https://www.postman.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="PostMan" />
-    </a>
-    <a href="https://hadoop.apache.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
     </a>
     <a href="https://www.figma.com/" target="_blank">
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     </a>
-    <a href="https://neovim.io/" target="_blank">
-      <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-    </a> 
+    <a href="https://www.jenkins.com/" target="_blank">
+      <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+    </a>
+    <a href="https://www.ansible.com/" target="_blank">
+      <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+    </a>
+    <a href="https://www.ansible.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
+  </a>
+    
   </div>
 </td></tr></table> 
 
