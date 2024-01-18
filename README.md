@@ -126,7 +126,7 @@ achievements and passion for technology to contribute effectively to a collabora
 </p>  
 <p align="center">
   <a href="https://www.linkedin.com/in/omkarthube/">
-    <img src="https://www.linkedin.com/in/omkarthube/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/OMKARTHUBE15">
     <img src="https://github.com/OMKARTHUBE15" alt="Github">
