@@ -24,9 +24,6 @@ achievements and passion for technology to contribute effectively to a collabora
         </a> 
        <a href="https://www.iso.org/standard/74528.html" target="_blank">
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  />
-        </a> 
-        <a href="https://www.php.net/" target="_blank">
-            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
         </a>
         <a href="https://nodejs.org/en" target="_blank">
             <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
