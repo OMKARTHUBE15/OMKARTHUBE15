@@ -1,4 +1,4 @@
- # Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+  # Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## About me
 A dedicated and detail-oriented graduate seeking a challenging role as an AWS Solution
@@ -14,7 +14,7 @@ achievements and passion for technology to contribute effectively to a collabora
 #### AWS   
   <div align="center">  
         <a href="https://www.aws.com/" target="_blank">
-            <img src="https://img.shields.io/badge/AWS%20Cloud-8A2BE2" />
+            <img src=https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white />
         </a>  
         <a href="https://spring.io/" target="_blank"> 
           <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
