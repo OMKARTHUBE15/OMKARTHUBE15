@@ -125,14 +125,14 @@ achievements and passion for technology to contribute effectively to a collabora
   <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="150"/>
 </p>  
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-roldan-guerra/">
-    <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/OMKAR THUBE/">
+    <img src="https://www.linkedin.com/in/omkarthube/" alt="LinkedIn">
   </a>
-  <a href="https://github.com/uma-dev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github">
+  <a href="https://github.com/OMKARTHUBE15">
+    <img src="https://github.com/OMKARTHUBE15" alt="Github">
   </a> 
-  <a href="https://twitter.com/uma_dev_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/OMKARTHUBE15">
+    <img src="https://twitter.com/ON_Thube" alt="Twitter">
   </a> 
 </p>
 
